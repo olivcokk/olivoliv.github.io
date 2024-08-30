@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yabee.ac.th/client-upload/yabee/sitemap.xml
